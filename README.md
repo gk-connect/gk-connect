@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/His
 - 🔭 I’m a Devops Engineer.
 - 🌱 Plays with Kubernetes and Helm File.
-- 💬 I'm currenlty learing Flutter.
+- 💬 I'm currenlty learning Flutter.
 - 📫 How to reach me: Check social links below.
 
 ## 🌐 Socials
