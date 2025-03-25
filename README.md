@@ -5,12 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gk-binary&label=Views&color=blue&style=plastic&style=for-the-badge" alt="gk" /> </p>
 
-# 💫 About Me :
-- 😄 Pronouns: He/His
-- 🔭 I’m a Devops Engineer.
-- 🌱 Plays with Kubernetes and Helm File.
-- 💬 Flutter developer.
-- 📫 How to reach me: Check social links below.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gopu_krishnan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gopu-krishnan/)  [![Twitter](https://img.shields.io/twitter/follow/gopu_krishnan?logo=Twitter&style=for-the-badge)](https://twitter.com/gopu_krishnan)
